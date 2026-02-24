@@ -18,3 +18,11 @@ This is a Django-based web application designed to provide multiple cybersecurit
 - SQLite (default database)
 
 ## 📂 Project Structure
+project/
+│── manage.py
+│── requirements.txt
+│── db.sqlite3
+│
+├── app/
+├── templates/
+├── static/
